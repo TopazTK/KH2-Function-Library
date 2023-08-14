@@ -65,7 +65,7 @@ CallFunction(0x1305F0)
 ## CampMenuStart(Type) -- Address: 0x2E23A0
 Instantly boots a Camp Menu (Camp, Load, Save, etc.), no matter where you are. Should be used with caution.
 ```lua
-CallFunction(0x2E23A0)
+CallFunction(0x2E23A0, 0)
 ```
 
 ---
